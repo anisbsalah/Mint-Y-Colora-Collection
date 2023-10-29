@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Orangeish
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Orangeish
+MetacityTheme=Mint-Y-Orangeish
+IconTheme=Mint-Y
+CursorTheme=Bibata-Modern-Classic
+ButtonLayout=:minimize,maximize,close
